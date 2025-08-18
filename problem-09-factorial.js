@@ -12,4 +12,4 @@ function findFactorial(num) {
   return factorial;
 }
 
-console.log(findFactorial([5]))
+// console.log(findFactorial([5]))
