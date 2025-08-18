@@ -6,3 +6,5 @@ function capitalizeWords(str) {
   }
   return words.join(" ");
 }
+
+console.log(capitalizeWords("hello world"))

@@ -11,3 +11,5 @@ function findFactorial(num) {
   }
   return factorial;
 }
+
+console.log(findFactorial([5]))
